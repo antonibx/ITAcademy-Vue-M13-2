@@ -8,9 +8,9 @@
       <li> Mostrar a pantalla el codi dels coets i el número de propulsors que té.</li>
       <li> Fes una funció que calculi la potència màxima del coet (serà el sumatori de les potències màximes dels propulsors).</li>
       <li> El coet tindrà dos mètodes, accelerar o frenar i augmentarà o es reduirà de 10 en 10 la potencia del propulsor fins a un màxim de 120.</li>
-      <li> Afegir a la vista botons per permetre a un usuari crear, accelerar, frenar i veure la informació dels coets. Algo semblant a la imatge de sota.</li>
+      <li> Afegir a la vista botons per permetre a un usuari crear, accelerar, frenar i veure la informació dels coets.</li>
     </ol>
-    <router-link to="/coets" class="btn btn-dark">Coets</router-link>
+    <router-link to="/coets" class="btn btn-dark text-light">Coets</router-link>
   </div>
 </template>
 
