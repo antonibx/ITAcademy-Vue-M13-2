@@ -1,4 +1,4 @@
-# projectecoets
+# Projecte sobre carreres de coets
 
 ## Project setup
 ```
